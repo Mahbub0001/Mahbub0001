@@ -38,6 +38,28 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 
 ---
 
+### 💡 Engineering Deep-Dive (Interactive Dropdowns)
+
+<details>
+  <summary><b>🧠 Click to explore: AI & Machine Learning Specialization</b></summary>
+  <br>
+  
+  * **Generative AI & LLMs:** Designing RAG pipelines, contextual prompts, document retrieval, and conversational agents with **LangChain** and **OpenAI**.
+  * **Computer Vision & Deep Learning:** Image preprocessing, CNN classification, and diagnostic models for biomedical/microscopic imagery using **PyTorch** & **OpenCV**.
+  * **Data Science & ML Foundations:** Exploratory data analysis (EDA), predictive regression/classification with **Pandas**, **NumPy**, and **Scikit-Learn**.
+</details>
+
+<details>
+  <summary><b>⚙️ Click to explore: Backend System Design & Engineering Architecture</b></summary>
+  <br>
+  
+  * **High-Performance APIs:** Asynchronous request handling, schema validation, and OpenAPI documentation with **FastAPI** & **Django REST Framework**.
+  * **Data Persistence & Modeling:** Relational design with **PostgreSQL** / **SQLAlchemy** and document-based indexing with **MongoDB** & **Supabase**.
+  * **DevOps & Workflows:** Containerized microservices with **Docker**, automated CI/CD via **GitHub Actions**, and clean Git branching strategies.
+</details>
+
+---
+
 ### 🛠️ Tech Arsenal & Skillset
 
 #### 🤖 Artificial Intelligence & Machine Learning
@@ -79,6 +101,20 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+### 🏆 GitHub Highlights & Milestones
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌟_Total_Stars-26+-F7B731?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📦_Public_Repos-26+-38B2D1?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔥_Contributions-Active-success?style=for-the-badge&logo=codeforces&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡_Continuous_Learner-100%25-8A2BE2?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
 
 ---
 
@@ -167,7 +203,7 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
   <img src="https://streak-stats.demolab.com/?user=Mahbub0001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Profile Summary" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahbub0001&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahbub0001&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Statistics" />
 </div>
 
@@ -181,6 +217,14 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</div>
+
+---
+
+### 💬 Daily Developer & Tech Insight
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" width="80%" />
 </div>
 
 ---
