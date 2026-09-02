@@ -221,6 +221,14 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 
 ---
 
+### 💬 Daily Engineering & Tech Insight
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=2500&color=61DAFB&center=true&vCenter=true&width=780&lines=%E2%80%9CA+few+months+writing+code+can+save+you+a+few+hours+in+design.%E2%80%9D;%E2%80%9CFirst%2C+solve+the+problem.+Then%2C+write+the+code.%E2%80%9D;%E2%80%9CSimplicity+is+the+prerequisite+for+reliability.%E2%80%9D;%E2%80%9CTransforming+complex+problems+into+intelligent+solutions.%E2%80%9D" alt="Engineering Quotes" />
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
