@@ -26,13 +26,13 @@
 name: Mahbub-Ul-Alam Bhuiyan
 role: AI Engineer & Backend Engineer
 focus: Generative AI, LLM Pipelines, Scalable Backend Services
-learning: LangChain, Agentic AI, Deep Learning
+learning: LangChain, PyTorch, Agentic AI, Deep Learning
 currently_building: Intelligent Web Apps & Data-driven Microservices
 quote: "Transforming complex problems into elegant, intelligent solutions."
 ```
 
 - 🔭 **Currently Focusing On:** Developing full-stack AI-driven applications, LLM agents, and high-performance backend APIs.
-- 🧠 **Exploring & Learning:** LangChain, Retrieval-Augmented Generation (RAG), Scikit-Learn, Pandas & NumPy.
+- 🧠 **Exploring & Learning:** PyTorch, LangChain, Retrieval-Augmented Generation (RAG), Scikit-Learn, Pandas & NumPy.
 - 💼 **Available For:** AI Engineering, Backend Development roles & open-source collaborations.
 - 🌐 **Portfolio:** Check out my work at [mahbub-40.vercel.app](https://mahbub-40.vercel.app/)
 
@@ -43,6 +43,7 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 #### 🤖 Artificial Intelligence & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
