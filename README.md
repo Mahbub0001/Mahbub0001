@@ -221,14 +221,6 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 
 ---
 
-### 💬 Daily Developer & Tech Insight
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" width="80%" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
