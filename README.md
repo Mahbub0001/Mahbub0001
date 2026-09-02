@@ -26,7 +26,7 @@
 name: Mahbub-Ul-Alam Bhuiyan
 role: AI Engineer & Backend Engineer
 focus: Generative AI, LLM Pipelines, Scalable Backend Services
-learning: LangChain, PyTorch, Agentic AI, Deep Learning
+learning: PyTorch, LangChain, Agentic AI, Deep Learning
 currently_building: Intelligent Web Apps & Data-driven Microservices
 quote: "Transforming complex problems into elegant, intelligent solutions."
 ```
@@ -82,24 +82,93 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🎓 **[Capstone Project](https://github.com/Mahbub0001)** | Comprehensive intelligent application designed with AI integration, robust backend architecture, and seamless user experience. | Python, FastAPI / Django, AI / ML, Database |
-| 🛒 **[E-Commerce Web Platform](https://github.com/Mahbub0001)** | Modern, scalable e-commerce web platform featuring product catalog, cart management, secure checkout, and full responsive design. | React / Next.js, Backend API, PostgreSQL / MongoDB |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 LangChain AI Chatbot</h3>
+      <p align="left">
+        Interactive conversational AI assistant powered by LangChain prompt templates, memory buffer, and a modern Streamlit interface.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Mahbub0001/chatbot_using_langchain_streamlit">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🩺 Medical Image Diagnosis AI</h3>
+      <p align="left">
+        Deep Learning computer vision pipeline designed for analyzing microscopic and X-ray medical imagery with automated disease classification.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Mahbub0001/Medical_Image_Diagnosis_System-Microscopic-X-ray-Image-">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🛒 Full-Stack MERN E-Commerce</h3>
+      <p align="left">
+        Comprehensive web shopping platform with JWT authentication, dynamic catalog, cart persistence, and order management.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2D1?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Mahbub0001/E-commerce-MERN-">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ FastAPI Scalable Backend API</h3>
+      <p align="left">
+        High-performance asynchronous REST API built with FastAPI, Pydantic validation, relational database integration, and Swagger documentation.
+      </p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+      </p>
+      <p align="left">
+        <a href="https://github.com/Mahbub0001/FastAPI_TodoApp">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <a href="https://github.com/Mahbub0001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mahbub0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F7B731&text_color=9CA3AF&icon_color=F7B731" width="48%" alt="Mahbub's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub0001&theme=tokyonight&hide_border=true&stroke=F7B731&ring=F7B731&fire=F7B731" width="48%" alt="Mahbub's GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Mahbub0001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Profile Summary" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbub0001&layout=compact&theme=tokyonight&hide_border=true&title_color=F7B731" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahbub0001&theme=tokyonight" width="49%" alt="Top Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Statistics" />
 </div>
 
 ---
