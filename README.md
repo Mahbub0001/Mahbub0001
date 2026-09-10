@@ -200,8 +200,8 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mahbub0001&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahbub0001&theme=tokyonight" width="49%" alt="Productive Time Breakdown" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahbub0001&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Statistics" />
