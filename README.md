@@ -109,7 +109,7 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 <div align="center">
   <img src="https://img.shields.io/badge/🌟_Total_Stars-26+-F7B731?style=for-the-badge&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📦_Public_Repos-26+-38B2D1?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦_Public_Repos-28+-38B2D1?style=for-the-badge&logo=git&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/🔥_Contributions-Active-success?style=for-the-badge&logo=codeforces&logoColor=white" />
   &nbsp;
