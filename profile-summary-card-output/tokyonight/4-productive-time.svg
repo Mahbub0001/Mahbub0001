@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200">
+<style>* { font-family: 'Segoe UI', Ubuntu, sans-serif; }</style>
+<rect x="1" y="1" rx="5" ry="5" height="99%" width="99%" stroke="#1a1b27" stroke-width="1" fill="#1a1b27"/>
+<text x="20" y="35" fill="#70a5fd" font-size="14" font-weight="bold">Productive Time (UTC+6)</text>
+<g transform="translate(25, 60)" font-size="10" fill="#70a5fd">
+  <text x="0" y="10">Morning (06-12)</text><rect x="110" y="0" width="80" height="12" rx="3" fill="#388bfd"/><text x="200" y="10" fill="#bf91f3">30%</text>
+  <text x="0" y="30">Afternoon (12-18)</text><rect x="110" y="20" width="65" height="12" rx="3" fill="#70a5fd"/><text x="185" y="30" fill="#bf91f3">25%</text>
+  <text x="0" y="50">Evening (18-24)</text><rect x="110" y="40" width="95" height="12" rx="3" fill="#bf91f3"/><text x="215" y="50" fill="#bf91f3">35%</text>
+  <text x="0" y="70">Night (00-06)</text><rect x="110" y="60" width="30" height="12" rx="3" fill="#3178c6"/><text x="150" y="70" fill="#bf91f3">10%</text>
+</g>
+<text x="20" y="165" font-size="11" fill="#38b2ac">⚡ Most active: Evening &amp; Night hours</text>
+</svg>
