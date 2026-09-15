@@ -200,11 +200,11 @@ quote: "Transforming complex problems into elegant, intelligent solutions."
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahbub0001&theme=tokyonight" width="49%" alt="Productive Time Breakdown" />
+  <img src="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub Profile Summary" />
+  <img src="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time Breakdown" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahbub0001&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahbub0001&theme=tokyonight" width="49%" alt="GitHub Statistics" />
+  <img src="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top Languages by Repo" />
+  <img src="https://raw.githubusercontent.com/Mahbub0001/Mahbub0001/output/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Statistics" />
 </div>
 
 ---
